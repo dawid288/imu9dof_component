@@ -12,5 +12,27 @@
         "board/esp32-wrover-kit-3.3v.cfg"
     ],
     "idf.pythonBinPathWin": "C:\\Users\\User\\.espressif\\python_env\\idf5.2_py3.11_env\\Scripts\\python.exe",
-    "idf.toolsPathWin": "C:\\Users\\User\\.espressif"
+    "idf.toolsPathWin": "C:\\Users\\User\\.espressif",
+    "files.associations": {
+        "*.txt": "c",
+        "imu_9dof.h": "c",
+        "ekf.h": "c",
+        "adc.h": "c",
+        "stdio.h": "c",
+        "stdint.h": "c",
+        "math.h": "c",
+        "stdbool.h": "c",
+        "mat.h": "c",
+        "stdlib.h": "c",
+        "freertos.h": "c",
+        "cmath": "cpp",
+        "iostream": "c",
+        "c++config.h": "c",
+        "istream": "c",
+        "ostream": "c",
+        "requires_hosted.h": "c",
+        "ekf_imu13states.h": "c",
+        "iosfwd": "cpp",
+        "mat.hpp": "c"
+    }
 }

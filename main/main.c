@@ -6,6 +6,8 @@
 #include "ak09918.h"
 #include "icm20600.h"
 #include "imu_9dof.h"
+#include "adc.h"
+#include "ekf_imu13states.h"
 
 void app_main(void)
 {
